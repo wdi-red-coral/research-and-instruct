@@ -11,7 +11,7 @@ For each team are going to talk and explain 2 main topics, you will have 30 minu
 
 ### Debug entity
 - What is a library? What is a framework? Give examples
-- The different image formats that can be used. What are the advantages and disadvantages of each?
+- Explain the three ways to add styles to a web page. What are the advantages and disadvantages of each approach?
 
 ### tech_team
 - The difference between a strongly typed and a loosely typed programming language. Give examples of both.
