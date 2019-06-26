@@ -1,9 +1,9 @@
 # Research and Instruct
-For each team are going to talk and explain 3 main topics, you will have 30 minute to research about it and 5 minute to talk about each topic. Try to research as hard as you can so you can get the chance to teach the class about what you have learned while you are researching.
+For each team are going to talk and explain 2 main topics, you will have 30 minute to research about it and 5 minute to talk about each topic. Try to research as hard as you can so you can get the chance to teach the class about what you have learned while you are researching.
 
 ### Team Rocket
 - Talk about the "back-end web development".
-- Talk about the functional programming.
+- Talk about the concatenation and the interpolation.
 
 ### The Guardians
 - Difference between a parameter and an argument.
@@ -11,11 +11,11 @@ For each team are going to talk and explain 3 main topics, you will have 30 minu
 
 ### Debug entity
 - What is a library? What is a framework? Give examples
-- What are the different image formats that can be used. What are the advantages anddisadvantages of each?
+- The different image formats that can be used. What are the advantages and disadvantages of each?
 
 ### tech_team
-- Talk about memory allocation
-- Explain MVC
+- The difference between a strongly typed and a loosely typed programming language. Give examples of both.
+- Why do i need a DOCTYPE, and what does it do?
 
 ### Error Monsters
 - Talk about the difference between a synchronous and an asynchronous programming language
